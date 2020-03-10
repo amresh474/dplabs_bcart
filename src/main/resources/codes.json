@@ -1,0 +1,299 @@
+{
+  "code11001": {
+      "httpStatusCode":201,
+      "statusCode": 11001,
+      "status": true,
+      "msg": "Item added to Cart successfully"
+    },
+  "code11012": {
+      "httpStatusCode":200,
+      "statusCode": 11012,
+      "status": true,
+      "msg": "Cart submitted successfully"
+    },
+  "code11014": {
+      "httpStatusCode":204,
+      "statusCode": 11014,
+      "status": true,
+      "msg": "Address updated successfully"
+    },    
+  "code11016": {
+      "httpStatusCode":204,
+      "statusCode": 11016,
+      "status": true,
+      "msg": "Cart Patch updated successfully"
+    },  
+    "code11018": {
+      "httpStatusCode":401,
+      "statusCode": 11018,
+      "status": true,
+      "msg": "Unable to submit cart"
+    },  
+    "code11019": {
+      "httpStatusCode":500,
+      "statusCode": 11019,
+      "status": true,
+      "msg": "Internal server error"
+    },
+	"code11020": {
+		"httpStatusCode": 404,
+		"statusCode": 11020,
+		"status": false,
+		"msg": "OrgId Can not be null"
+	},
+	"code11021": {
+		"httpStatusCode": 404,
+		"statusCode": 11021,
+		"status": false,
+		"msg": "LabId Can not be null"
+	},
+	"code11022": {
+		"httpStatusCode": 404,
+		"statusCode": 11022,
+		"status": false,
+		"msg": "UserId Can not be null"
+	},
+	"code11023": {
+		"httpStatusCode": 500,
+		"statusCode": 11023,
+		"status": false,
+		"msg": "Some issue to Delete cart from DEeP"
+	},
+	"code11024": {
+		"httpStatusCode": 500,
+		"statusCode": 11024,
+		"status": false,
+		"msg": "Issue in add to cart in DEeP"
+	},
+	"code11025": {
+		"httpStatusCode": 500,
+		"statusCode": 11025,
+		"status": false,
+		"msg": "Some issue to Delete cart from DEeP"
+	},
+	"code11026": {
+		"httpStatusCode": 500,
+		"statusCode": 11026,
+		"status": false,
+		"msg": "unable to delete item from cart"
+	},
+	"code11027": {
+		"httpStatusCode": 500,
+		"statusCode": 11027,
+		"status": false,
+		"msg": "Error occurred while updating cart patch"
+	},
+	"code11028": {
+		"httpStatusCode": 500,
+		"statusCode": 11028,
+		"status": false,
+		"msg": "Error occurred while updating cart updateAddress patch"
+	},
+	"code11029": {
+		"httpStatusCode": 500,
+		"statusCode": 11029,
+		"status": false,
+		"msg": "Error occurred while fetching the active cart items from deep"
+	},
+	"code11030": {
+		"httpStatusCode": 500,
+		"statusCode": 11030,
+		"status": false,
+		"msg": "Issue with delete from cart DEeP: HttpClientErrorException"
+	},
+	"code11031": {
+		"httpStatusCode": 500,
+		"statusCode": 11031,
+		"status": false,
+		"msg": "Issue with delete from cart DEeP: HttpServerErrorException"
+	},
+	"code11032": {
+		"httpStatusCode": 500,
+		"statusCode": 11032,
+		"status": false,
+		"msg": "Issue with delete from cart DEeP"
+	},
+	"code11033": {
+		"httpStatusCode": 500,
+		"statusCode": 11033,
+		"status": false,
+		"msg": "Issue in  update To cart DEeP: HttpClientErrorException"
+	},
+	"code11034": {
+		"httpStatusCode": 500,
+		"statusCode": 11034,
+		"status": false,
+		"msg": "Issue in  update To cart DEeP: httpServerErrorException"
+	},
+	"code11035": {
+		"httpStatusCode": 500,
+		"statusCode": 11035,
+		"status": false,
+		"msg": "Issue in  update To cart DEeP"
+	},
+	"code11036": {
+		"httpStatusCode": 500,
+		"statusCode": 11036,
+		"status": false,
+		"msg": "Issue while converting object To Json"
+	},
+	"code11037": {
+		"httpStatusCode": 500,
+		"statusCode": 11037,
+		"status": false,
+		"msg": "Issue in Add To cart DEeP"
+	},
+	"code11038": {
+		"httpStatusCode": 500,
+		"statusCode": 11038,
+		"status": false,
+		"msg": "Issue in  Add To cart DEeP: HttpServerErrorException"
+	},
+	"code11039": {
+		"httpStatusCode": 500,
+		"statusCode": 11039,
+		"status": false,
+		"msg": "Issue in Add To cart DEeP: HttpClientErrorException"
+	},
+	"code11040": {
+		"httpStatusCode": 500,
+		"statusCode": 11040,
+		"status": false,
+		"msg": "Error occurred while submitting cart to deep"
+	},
+	"code11041": {
+		"httpStatusCode": 500,
+		"statusCode": 11041,
+		"status": false,
+		"msg": "Error occurred while fetching the active cart items from deep"
+	},
+  	"code11042": {
+      "httpStatusCode":500,
+      "statusCode": 11042,
+      "status": false,
+      "msg": "Error While Parsing Price and Availability Response to Json tree"
+    },
+  	"code11043": {
+      "httpStatusCode":404,
+      "statusCode": 11043,
+      "status": false,
+      "msg": "lab-owner-logon-id Can not be null"
+    },
+  	"code11044": {
+      "httpStatusCode":404,
+      "statusCode": 11044,
+      "status": false,
+      "msg": "User not affiliated"
+    },
+    "code11404": {
+      "httpStatusCode":404,
+      "statusCode": 11404,
+      "status": false,
+      "msg": "Not Found"
+    },
+    "code11200": {
+      "httpStatusCode":200,
+      "statusCode": 11200,
+      "status": true,
+      "msg": "Cart upadated successfully"
+    },
+     "code11220": {
+      "httpStatusCode":200,
+      "statusCode": 11200,
+      "status": true,
+      "msg": "  Cart data updated by Callback successfully "
+    },
+     "code11045": {
+      "httpStatusCode":400,
+      "statusCode": 11045,
+      "status": false,
+      "msg": "  Material Number is null or not equal with key "
+    },
+     "code11046": {
+      "httpStatusCode":400,
+      "statusCode": 11046,
+      "status": false,
+      "msg": "  Quantity must be greater than 0 "
+    },
+     "code11047": {
+      "httpStatusCode":404,
+      "statusCode": 11047,
+      "status": false,
+      "msg": "  Cart not found "
+    },
+    "code11048": {
+      "httpStatusCode":400,
+      "statusCode": 11048,
+      "status": false,
+      "msg": "  JSONObject can not be null "
+    },
+    "code11049": {
+      "httpStatusCode":200,
+      "statusCode": 11049,
+      "status": true,
+      "msg": "  Cart deleted successfully "
+    },
+     "code11051": {
+      "httpStatusCode":404,
+      "statusCode": 11051,
+      "status": false,
+      "msg": "  Cart item id not found "
+    }
+    ,
+     "code11052": {
+      "httpStatusCode":400,
+      "statusCode": 11052,
+      "status": false,
+      "msg": "  Cart item id can not be null "
+    },
+    "code11053": {
+      "httpStatusCode":400,
+      "statusCode": 11053,
+      "status": false,
+      "msg": " Card detail and PO Number both can not be null "
+    },
+     "code11054": {
+      "httpStatusCode":200,
+      "statusCode": 11054,
+      "status": true,
+      "msg": " Success "
+    },
+    "code11055": {
+      "httpStatusCode":400,
+      "statusCode": 11055,
+      "status": false,
+      "msg": " Please enter Card Number. "
+    },
+    "code11056": {
+      "httpStatusCode":400,
+      "statusCode": 11056,
+      "status": false,
+      "msg": " Card Number length can not be less than 4 "
+    },
+     "code11057": {
+      "httpStatusCode":400,
+      "statusCode": 11057,
+      "status": false,
+      "msg": " Please enter Name on card. "
+    },
+     "code11058": {
+      "httpStatusCode":400,
+      "statusCode": 11058,
+      "status": false,
+      "msg": " Please enter Expiry date. "
+    },
+     "code11059": {
+      "httpStatusCode":400,
+      "statusCode": 11059,
+      "status": false,
+      "msg": " Please enter CVV. "
+    },
+     "code11060": {
+      "httpStatusCode":400,
+      "statusCode": 11060,
+      "status": false,
+      "msg": " Please enter Purchase Order. "
+    }
+ }  
+
+  

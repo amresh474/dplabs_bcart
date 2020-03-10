@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: amresh
+Build-Jdk: 11.0.6
+Implementation-Title: cart
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cart
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/cart
+Created-By: Maven Integration for Eclipse
+
